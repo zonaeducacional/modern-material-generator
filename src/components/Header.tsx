@@ -13,7 +13,7 @@ const Header = () => {
             </div>
           </div>
           <h1 className="text-2xl md:text-3xl font-semibold bg-clip-text text-transparent bg-gradient-to-r from-primary to-primary/70">
-            Gerador de Materiais Didáticos
+            Gerador de Recursos Didáticos
           </h1>
           <div className="hidden sm:block ml-2 px-2 py-1 text-xs font-medium text-primary bg-primary/10 rounded-full">
             BNCC
